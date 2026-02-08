@@ -1,6 +1,6 @@
 # Crimes Exemplares: An Interactive Exploration
 
-This project is an interactive digital experience inspired by Max Aub's book "Crimes Exemplares". It was created by Carolina Silva, Joana Oliveira, and João Matos in 2024.
+This project is an interactive digital experience inspired by Max Aub's book "Crimes Exemplares". Artwork by Carolina Silva and Joana Oliveira, code by João Matos.
 
 ## Overview
 
@@ -30,12 +30,3 @@ Explore a virtual living room where each object reveals a piece of a mysterious 
 - `sc/`: Scene and object images for the initial state
 - `sfx/`: Sound effects and background music
 - `som/`: Audio clues for each object
-
-## Credits
-
-- Based on "Crimes Exemplares" by Max Aub
-- Developed by Carolina Silva, Joana Oliveira, and João Matos (2024)
-
-## License
-
-This project is for educational and non-commercial use only. All rights reserved to the respective authors and sources.
